@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# PID-Library
+# PID-Library (C Version)
 PID Controller library for ARM Cortex M (STM32)
 
 > #### Download Arduino Library : [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library)  
