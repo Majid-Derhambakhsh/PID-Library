@@ -1,9 +1,0 @@
-~ Author   : Majid Derhambakhsh
-~ Created  : 02/03/2023
-~ Support  : Majid.Derhambakhsh@outlook.com
-~ Github ID: Majid-Derhambakhsh
-
-- MCU                  : STM32F103C8T
-- Compiler             : STM32CubeIDE.
-- Library              : HAL Library.
-- Programming language : C/C++
